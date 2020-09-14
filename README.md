@@ -1,4 +1,4 @@
-# PeladasON2020
+# PeladasONoficial
 
 <b>Orientações</b><br/>
 
