@@ -21,6 +21,6 @@
 
 <b>Backend</b><br/>
   Springboot - 2.3.3<br/>
-  java: 8 atualização 251<br/>
-  hibernate - 5.4.20<br/>
+  Java: 8 atualização 251<br/>
+  Hibernate - 5.4.20<br/>
   Postgres - 9.4<br/>
